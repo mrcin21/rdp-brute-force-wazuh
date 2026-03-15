@@ -54,7 +54,7 @@ Network setup: VirtualBox host-only adapters ensure all machines can communicate
 
 5. Details of log
 
-![Wazuh3](images/details.png)
+![Wazuh3](images/details.jpg)
 
 ## Results
 
