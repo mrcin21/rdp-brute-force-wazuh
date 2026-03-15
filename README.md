@@ -51,3 +51,14 @@ Network setup: VirtualBox host-only adapters ensure all machines can communicate
 4. Windows Server logs
 
 ![Wazuh2](images/dashboard.png)
+
+5. Details of log
+
+![Wazuh2](images/details.png)
+
+## Results
+
+- Total log events collected: 537
+- Failed logins detected: 154
+- Alerts visible in Wazuh Dashboard for IP 192.168.18.14
+
